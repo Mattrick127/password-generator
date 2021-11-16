@@ -41,6 +41,9 @@ header {
   max-width: 800px;
   padding: 30px 40px;
 }
+.card-header {
+  text-align: center;
+}
 
 .card-header::after {
   content: " ";
